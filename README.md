@@ -26,5 +26,7 @@ Code Implementation Process:
 
 
 1.Download these 2 Jupyter Notebook files and upload them in Google colab.
+
 2.Name your testing Image as "testImage1.jpg" or modify the Image name in the last section of code based on your need.
+
 3.Under the sample_data section of colab , add this testing Image and run the code.
